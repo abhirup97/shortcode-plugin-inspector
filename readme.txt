@@ -2,7 +2,7 @@
 Author: Abhirup Goswami, Indranil Mondal
 Author URI : https://github.com/abhirup97, https://github.com/Indranil-Mondal
 Requires at least: 5.0
-Tested up to: 6.x
+Tested up to: 7.0
 Stable tag: 1.0
 
 Developer utility. After activation, go to Tools > Shortcode Inspector.
