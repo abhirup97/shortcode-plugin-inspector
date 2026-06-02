@@ -1,5 +1,6 @@
 === Shortcode & Plugin Inspector ===
-Author: Custom Development
+Author: Abhirup Goswami, Indranil Mondal
+Author URI : https://github.com/abhirup97, https://github.com/Indranil-Mondal
 Requires at least: 5.0
 Tested up to: 6.x
 Stable tag: 1.0
